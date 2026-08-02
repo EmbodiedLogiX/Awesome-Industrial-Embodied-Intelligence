@@ -23,6 +23,7 @@
 
 ## 📢 News
 
+- **[08/02/2026]** Added a new curated resource under **Decision-Making**: [Awesome Bin Packing with Robotic Arms](https://github.com/3DBP-Lab/awesome-bin-packing-with-robotic-arms), covering representative research on robotic bin packing, planning, and execution.
 - **[MM/DD/YYYY]** <FILL: initial release of the survey and this repository.>
 - **[MM/DD/YYYY]** <FILL: milestone / acceptance / major update news item.>
 
@@ -139,6 +140,14 @@ If you find our survey useful for your research, please cite:
 
 ## 🕹️ Decision-Making
 
+### Awesome Lists and Curated Resources
+
+> Curated collections that consolidate the decision-making literature for embodied logistics and robotic packing.
+
+| Title | Method/Model | Date | Code | Venue |
+| :---- | :----------: | :--: | :--: | :---: |
+| [**Awesome Bin Packing with Robotic Arms**](https://github.com/3DBP-Lab/awesome-bin-packing-with-robotic-arms) | Curated list (3D bin packing, robotic planning, physical stability, and execution) | 2026 | [repo](https://github.com/3DBP-Lab/awesome-bin-packing-with-robotic-arms) | GitHub |
+
 ### Spatial Cognition for Bin Packing and Manipulation
 
 | Title | Method/Model | Date | Code | Venue |
@@ -239,6 +248,19 @@ If you find our survey useful for your research, please cite:
 | <FILL cognitive architecture / benchmark paper> | <method> | MM/YYYY | [code]() | <venue> |
 
 ---
+
+## 🗓️ Roadmap & Update Plan
+
+We maintain this survey as a living repository. Planned updates:
+
+- **Quarterly literature sweep** — Track new decision-making, packing, and manipulation papers from CVPR / ICLR / ICML / NeurIPS / CoRL / ICRA / IROS and arXiv; add verified entries to the corresponding sections.
+- **Section expansion** — Fill in the `<FILL ...>` placeholder rows under Perception, Decision-Making, Multi-Agent Collaboration, and Emerging Applications with representative works.
+- **Curated resource sync** — Periodically sync with upstream awesome lists (e.g. [Awesome Bin Packing with Robotic Arms](https://github.com/3DBP-Lab/awesome-bin-packing-with-robotic-arms)) and cross-link newly added benchmarks, datasets, and code.
+- **Metadata completeness** — Ensure every entry carries a working paper link, code/project link (when available), venue, and date; fix broken links during each sweep.
+- **Taxonomy refinement** — Revisit the six cognitive capabilities and adjust section granularity as the field evolves; split overloaded tables into finer sub-tables when needed.
+- **Community contributions** — Merge validated pull requests on a rolling basis (see the Contributing guidelines below).
+
+> Suggestions and PRs for missing papers or new resources are always welcome.
 
 ## Contributing
 
