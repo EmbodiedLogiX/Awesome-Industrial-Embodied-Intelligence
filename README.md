@@ -15,7 +15,7 @@
 
 <h5 align="center">
 
-**[Paper](https://arxiv.org/abs/XXXX.XXXXX)** | **[arXiv](https://arxiv.org/abs/XXXX.XXXXX)** | **[Project Page](https://github.com/<ORG>/Awesome-Industrial-Embodied-Intelligence)**
+**[Paper](https://arxiv.org/abs/XXXX.XXXXX)** | **[arXiv](https://arxiv.org/abs/XXXX.XXXXX)** | **[Project Page](https://github.com/EmbodiedLogiX/Awesome-Industrial-Embodied-Intelligence)**
 
 </h5>
 
@@ -24,8 +24,7 @@
 ## 📢 News
 
 - **[08/02/2026]** Added a new curated resource under **Decision-Making**: [Awesome Bin Packing with Robotic Arms](https://github.com/3DBP-Lab/awesome-bin-packing-with-robotic-arms), covering representative research on robotic bin packing, planning, and execution.
-- **[MM/DD/YYYY]** <FILL: initial release of the survey and this repository.>
-- **[MM/DD/YYYY]** <FILL: milestone / acceptance / major update news item.>
+- **[07/31/2026]** initial release of the survey and this repository.
 
 <font size=5><center><b> Table of Contents </b></center></font>
 
@@ -47,11 +46,7 @@
 
 <!-- ![image](./img/overview.png) -->
 
-<FILL: 1–2 short paragraphs. Unlike LLM-centric surveys, we reframe industrial
-embodied intelligence around cognition as an emergent property of online
-interaction. We organize the literature around six core cognitive capabilities:
-working memory, spatial cognition, fast decision-making, predictive prospection,
-online learning, and cognitive control.>
+In this Review, we focus on industrial embodied intelligence around cognition as an emergent property of online interaction. We organize the literature around six core cognitive capabilities: working memory, spatial cognition, fast decision-making, predictive prospection, online learning, and cognitive control.
 
 ## 📑 Citation
 
@@ -61,7 +56,7 @@ If you find our survey useful for your research, please cite:
 @article{industrialei-survey,
   author  = {<FILL author list>},
   title   = {A Cognitive Perspective on Industrial Embodied Intelligence},
-  journal = {<FILL, e.g. Frontiers of Computer Science>},
+  journal = {Frontiers of Computer Science},
   year    = {2026},
   doi     = {<FILL DOI>}
 }
@@ -214,22 +209,22 @@ If you find our survey useful for your research, please cite:
 
 ### Navigation
 
-| Title | Method/Model | Date | Code | Venue |
+| Title | Task | Date | Code | Venue |
 | :---- | :----------: | :--: | :--: | :---: |
-| [**CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs**](https://arxiv.org/abs/2412.10439) | CogNav | 2025 | [code]() | ICCV |
+| [**CogNav: Cognitive Process Modeling for Object Goal Navigation with LLMs**](https://arxiv.org/abs/2412.10439) | Navigation | 2025 | [code]() | ICCV |
 
 ### Manipulation
 
-| Title | Method/Model | Date | Code | Venue |
+| Title | Task | Date | Code | Venue |
 | :---- | :----------: | :--: | :--: | :---: |
 | [**KEMO: Event-Driven Keyframe Memory for Long-Horizon Robot Manipulation**](https://Hatty-z.github.io/KEMO) | KEMO | 2026 | [project page](https://Hatty-z.github.io/KEMO) | CVPR |
 | <FILL grasping / assembly paper> | <method> | MM/YYYY | [code]() | <venue> |
 
 ### Bin Packing
 
-| Title | Method/Model | Date | Code | Venue |
+| Title | Task | Date | Code | Venue |
 | :---- | :----------: | :--: | :--: | :---: |
-| <FILL online 3D bin packing paper> | <method> | MM/YYYY | [code]() | <venue> |
+| [**Awesome Bin Packing with Robotic Arms**](https://github.com/3DBP-Lab/awesome-bin-packing-with-robotic-arms) | Bin Packing | 08/2026 | [code](https://github.com/3DBP-Lab/awesome-bin-packing-with-robotic-arms) | Github |
 
 ---
 
@@ -248,17 +243,6 @@ If you find our survey useful for your research, please cite:
 | <FILL cognitive architecture / benchmark paper> | <method> | MM/YYYY | [code]() | <venue> |
 
 ---
-
-## 🗓️ Roadmap & Update Plan
-
-We maintain this survey as a living repository. Planned updates:
-
-- **Quarterly literature sweep** — Track new decision-making, packing, and manipulation papers from CVPR / ICLR / ICML / NeurIPS / CoRL / ICRA / IROS and arXiv; add verified entries to the corresponding sections.
-- **Section expansion** — Fill in the `<FILL ...>` placeholder rows under Perception, Decision-Making, Multi-Agent Collaboration, and Emerging Applications with representative works.
-- **Curated resource sync** — Periodically sync with upstream awesome lists (e.g. [Awesome Bin Packing with Robotic Arms](https://github.com/3DBP-Lab/awesome-bin-packing-with-robotic-arms)) and cross-link newly added benchmarks, datasets, and code.
-- **Metadata completeness** — Ensure every entry carries a working paper link, code/project link (when available), venue, and date; fix broken links during each sweep.
-- **Taxonomy refinement** — Revisit the six cognitive capabilities and adjust section granularity as the field evolves; split overloaded tables into finer sub-tables when needed.
-- **Community contributions** — Merge validated pull requests on a rolling basis (see the Contributing guidelines below).
 
 > Suggestions and PRs for missing papers or new resources are always welcome.
 
