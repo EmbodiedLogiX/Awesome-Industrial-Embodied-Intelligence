@@ -353,7 +353,7 @@ Each row keeps links compact: `[Paper] | [GitHub]`. `Paper` links point to a pub
 
 ### Maintainer
 
-[@derongdeng](https://github.com/derongdeng) — catalogue curation and maintenance
+[@derongdeng](https://github.com/DerongDeng-dero) — catalogue curation and maintenance
 
 ### 🌟 Star History
 
