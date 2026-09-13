@@ -4,6 +4,10 @@
 
 <p align="center"><b>🏭 Sense</b> &nbsp;→&nbsp; <b>🧠 Remember</b> &nbsp;→&nbsp; <b>🕹️ Decide</b> &nbsp;→&nbsp; <b>🤝 Coordinate</b> &nbsp;→&nbsp; <b>📏 Validate</b></p>
 
+</div>
+
+![cover](cover.png)
+
 ## 🧭 Find your lane
 
 | I want to explore… | Start here |
